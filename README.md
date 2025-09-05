@@ -1,6 +1,6 @@
 ![Screenshot 2024-09-15 101758](https://github.com/user-attachments/assets/b0b6dfaf-2cff-473d-a3e3-9c01c67e584b)
 
-# Telecom Customer Churn Attrition Prediction
+# Customer Churn Attrition Prediction
 
 In today's competitive telecom industry, retaining customers is more important than ever. Customer churn, or when users leave for another provider, can significantly impact a company's bottom line. This project focuses on building a predictive model to help identify which customers are likely to leave based on their usage patterns, behavior, and other factors. By understanding these patterns, companies can act early to keep customers happy and reduce churn.
 
@@ -147,8 +147,8 @@ Explore interactive Power BI visualizations designed to enhance data exploration
 - **Clone the Repository**
 
   ```` 
-   git clone https://github.com/virajbhutada/Telecom-Customer-Churn-Prediction.git
-   cd Telecom-Customer-Churn-Prediction
+   git clone https://github.com/premn-2025/customer-churn-prediction.git
+   cd customer-churn-prediction
    ````
 
 - Install the project dependencies by running the following command
